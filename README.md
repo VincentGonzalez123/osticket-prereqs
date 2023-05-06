@@ -113,4 +113,30 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 </p>
 
 </p>
+
+
+- Rename: ost-config.php
+    - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+    - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Assign Permissions: ost-config.php
+    - Disable inheritance -> Remove All
+    - New Permissions -> Everyone -> All
+    
+- Continue Setting up osTicket in the browser (click Continue)
+    - Name Helpdesk
+    - Default email (receives email from customers)
+
+- From the Installation Files, download and install HeidiSQL.
+    - Open Heidi SQL
+    -	Create a new session, root/Password1
+    - Connect to the session
+    - Create a database called “osTicket”
+
+- Continue Setting up osticket in the browser
+    - MySQL Database: osTicket
+    - MySQL Username: root
+    - MySQL Password: Password1
+    - Click “Install Now!”
+
+
 <br />
