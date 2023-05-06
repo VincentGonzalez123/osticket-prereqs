@@ -23,6 +23,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure Tenant or subscription
+- osTicket Installation Files: 
+https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 
 <h2>Installation Steps</h2>
 
