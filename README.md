@@ -77,7 +77,7 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
  - Reload IIS (Open IIS, Stop and Start the server)
 
 <p>
-<img src="https://i.imgur.com/9Nzrzzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9Nzrzzi.png" height="80%" width="80%"/>
 </p>
 
 - Install osTicket v1.15.8
@@ -91,6 +91,11 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
     - On the right, click “Browse *:80”
     
 - Note that some extensions are not enabled
+
+<p>
+<img src="https://i.imgur.com/KGDGl3g.png" height="80%" width="80%"/>
+</p>
+
 - Go back to IIS, sites -> Default -> osTicket
 - Double-click PHP Manager
 - Click “Enable or disable an extension”
@@ -99,10 +104,13 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
     -	Enable: php_opcache.dll
 
 <p>
-<img src="https://i.imgur.com/cK5fasE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cK5fasE.png" height="80%" width="80%"/>
 </p>
 
 -	Refresh the osTicket site in your browse, observe the changes
+<p>
+<img src="https://i.imgur.com/6FmbQZn.png" height="80%" width="80%"/>
+</p>
 
 </p>
 <br />
