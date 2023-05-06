@@ -146,7 +146,9 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 <img src="https://i.imgur.com/fa1tAhH.png" height="80%" width="80%"/>
 </p>
 
-<h4>End Users osTicket URL: http://localhost/osTicket </h4>
+<h4>End Users osTicket URL:</h4>
+
+-  http://localhost/osTicket 
 
 
 <br />
