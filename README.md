@@ -138,5 +138,12 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
     - MySQL Password: Password1
     - Click “Install Now!”
 
+<h4>Congratulations, hopefully it is installed with no errors!</h4>
+
+- Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+<p>
+<img src="https://i.imgur.com/fa1tAhH.png" height="80%" width="80%"/>
+</p>
 
 <br />
