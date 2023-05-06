@@ -76,15 +76,33 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 
  - Reload IIS (Open IIS, Stop and Start the server)
 
-  - Install osTicket v1.15.8
-    - Download osTicket from the Installation Files Folder
-    - Extract and copy “upload” folder to c:\inetpub\wwwroot
-    - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
-
 <p>
 <img src="https://i.imgur.com/9Nzrzzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+- Install osTicket v1.15.8
+    - Download osTicket from the Installation Files Folder
+    - Extract and copy “upload” folder to c:\inetpub\wwwroot
+    - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket"
+    
+- Reload IIS (Open IIS, Stop and Start the server)
+
+- Go to sites -> Default -> osTicket
+    - On the right, click “Browse *:80”
+    
+- Note that some extensions are not enabled
+- Go back to IIS, sites -> Default -> osTicket
+- Double-click PHP Manager
+- Click “Enable or disable an extension”
+    - Enable: php_imap.dll
+    - Enable: php_intl.dll
+    -	Enable: php_opcache.dll
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/cK5fasE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+-	Refresh the osTicket site in your browse, observe the changes
+
 </p>
 <br />
