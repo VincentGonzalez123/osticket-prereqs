@@ -62,6 +62,20 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 
 <br />
 
+ - From the Installation Files, download and install VC_redist.x86.exe.
+
+ - From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+   - Typical Setup ->
+   - Launch Configuration Wizard (after install) ->
+   - Standard Configuration ->
+   - Password1
+
+ - Open IIS as an Admin
+
+ - Register PHP from within IIS
+
+ - Reload IIS (Open IIS, Stop and Start the server)
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
