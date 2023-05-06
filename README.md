@@ -55,8 +55,8 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 
 
 <p>
-<img src="https://i.imgur.com/0qgsz0t.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/jkKq9XG.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/0qgsz0t.png" height="50%" width="50%" />
+<img src="https://i.imgur.com/jkKq9XG.png" height="50%" width="50%" />
 </p>
 <p>
 
