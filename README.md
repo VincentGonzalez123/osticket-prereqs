@@ -35,7 +35,7 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 -	Password: osTicketPassword1! (for example/whatever you chose)
 
 <p>
-<img src="https://i.imgur.com/84kdklz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/84kdklz.jpg" height="80%" width="80%"/>
 </p>
 <br />
 
@@ -50,10 +50,13 @@ https://drive.google.com/drive/u/0/folders/1yOJcSZyWcX4HeN3-w3MDfObmSkPKzFbY
 - Create the directory C:\PHP
 
 - From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+  - !! ATTENTION !!
+ If this appears, choose to “Keep” the file:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0qgsz0t.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/jkKq9XG.png" height="80%" width="80%" />
 </p>
 <p>
 
